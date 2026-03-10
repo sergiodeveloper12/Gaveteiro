@@ -131,10 +131,12 @@ O sistema roda em modo terminal e utiliza um menu interativo.
 O usuário escolhe uma opção digitando o número correspondente.
 
 🗂️ Estrutura do Projeto
-organizador-gavetas/
-│
-├── organizador.py
-└── README.md
+
+<img width="845" height="119" alt="image" src="https://github.com/user-attachments/assets/6985057d-ce31-41d2-aba6-2c73e2a86cea" />
+
+
+
+
 ▶️ Como executar
 
 1️⃣ Instale o Python (caso não tenha)
